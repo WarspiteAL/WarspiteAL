@@ -1,6 +1,6 @@
 --Grand Wizard - Magisa
 
---scripted by Warspit
+--scripted by Warspite
 if not grand then Duel.LoadScript("Grand Wizard.lua") end
 local s,id=GetID()
 function s.initial_effect(c)
